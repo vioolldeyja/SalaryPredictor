@@ -16,6 +16,9 @@ public class SalaryPredictor {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        DataReader dr = new DataReader();
+        dr.run();
+        
     }
     
 }
